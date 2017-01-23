@@ -1,11 +1,11 @@
 # Site settings
-title: Bike Commute Today - The 5 best bike commuting links, Monday - Friday
+title: bikecommute.today
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
+description: The 5 best bike commuting news or product links, every day.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://bikecommute.today" # the base hostname & protocol for your site
+twitter_username:
+github_username:
 
 # Build settings
 markdown: kramdown
